@@ -1,5 +1,5 @@
 # aws-sqs
-Queue management library for review:
+Queue management library in Spring Boot for review:
 
 Requirements for Queue Management System:
 
