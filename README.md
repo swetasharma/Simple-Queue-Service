@@ -1,5 +1,5 @@
 # aws-sqs
-Queue management library in Spring Boot:
+Queue management library in Java(Spring Boot):
 
 Can anyone review my code for Queue Management? Any feedback, improvements or suggestions on it?
 
