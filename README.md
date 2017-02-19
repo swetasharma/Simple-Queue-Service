@@ -1,5 +1,5 @@
 # aws-sqs
-A simple practice project to implement a simple queue management system
+A simple practice project to implement a simple queue management system.
 
 Queue management library in Java(Spring Boot):
 
